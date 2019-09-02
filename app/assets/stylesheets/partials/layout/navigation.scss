@@ -10,6 +10,7 @@ nav {
       button:hover, .navbar-brand:hover {
         opacity: 0.8;
       }
+      
     }
   }
   
@@ -19,5 +20,8 @@ nav {
     border: none;
     a {
       color: white !important;
+    }
+    body {
+        margin-top: 50px;
     }
   }
